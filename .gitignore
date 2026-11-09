@@ -1,0 +1,12 @@
+# Data is downloaded by scripts/download_data.py, never committed
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
